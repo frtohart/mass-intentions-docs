@@ -8,7 +8,7 @@ Welcome to the official support page and user guide for **Mass Intentions Manage
 
 If you have questions, feedback, or need assistance with Mass Intentions Manager, please reach out to us:
 
-* **Email Support:** [support@yourparishdomain.org](mailto:support@yourparishdomain.org) *(Replace with your email)*
+* **Email Support:** massintentions.support@gmail.com
 * **Privacy Policy:** View our [Privacy Policy](privacy)
 * **Platform:** iOS 17.0+ (iPhone)
 
