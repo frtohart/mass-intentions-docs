@@ -4,8 +4,8 @@ This repository hosts the public User Manual, Support page, and Privacy Policy f
 
 ## Live Links for App Store Connect
 
-* 📖 **Support URL & User Manual:** [https://frtohart.github.io/mass-intentions-docs/](https://your-username.github.io/mass-intentions-docs/)
-* 🔒 **Privacy Policy URL:** [https://frtohart.github.io/mass-intentions-docs/privacy](https://your-username.github.io/mass-intentions-docs/privacy)
+* 📖 **Support URL & User Manual:** [https://frtohart.github.io/mass-intentions-docs/](https://frtohart.github.io/mass-intentions-docs/)
+* 🔒 **Privacy Policy URL:** [https://frtohart.github.io/mass-intentions-docs/privacy](https://frtohart.github.io/mass-intentions-docs/privacy)
 
 ---
 
