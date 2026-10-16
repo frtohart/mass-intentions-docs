@@ -79,3 +79,11 @@ Export a JSON backup from your old device in **Settings** $\rightarrow$ **Backup
 
 * **Liturgical Rules:** Date selection restrictions on Good Friday/Holy Saturday and Gregorian series date validation are intentional canonical safeguards (Canons 534, 904, 951).
 * **System Integrations:** Calendar access uses standard iOS `EventKit`, and App Lock uses native iOS `LocalAuthentication` (Face ID / Touch ID).
+
+---
+
+## Contact & Support
+For assistance, bug reports, or privacy inquiries regarding Mass Intentions Manager, please contact:
+
+* **Support Team:** Mass Intentions Manager Support
+* **Email:** massintentions.support@gmail.com
