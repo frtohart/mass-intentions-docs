@@ -1,8 +1,8 @@
-Privacy Policy for Mass Intentions Manager
+Privacy Policy for Oblationes Missae Manager
 Effective Date: October 16, 2026
 
 1. Overview
-Mass Intentions Manager ("the App") is a local administrative tool designed to assist parish administrators and priests in recording, scheduling, and managing Holy Mass intentions. We prioritise user privacy and operate under a strict on-device data model.
+Oblationes Missaes Manager ("the App") is a local administrative tool designed to assist parish administrators and priests in recording, scheduling, and managing Holy Mass intentions. We prioritise user privacy and operate under a strict on-device data model.
 
 2. Data Collection and Storage
 • On-Device Storage: All recorded data—including parishioner names, Mass intention details, stipend amounts, and custom notes—is stored locally on your iOS device using Apple’s SwiftData framework.
@@ -25,5 +25,5 @@ You maintain complete control and ownership of your data. You may delete individ
 7. Contact & Support
 For assistance, bug reports, or privacy inquiries regarding Mass Intentions Manager, please contact:
 
-* **Support Team:** Mass Intentions Manager Support
+* **Support Team:** Oblationes Missae Manager Support
 * **Email:** massintentions.support@gmail.com
