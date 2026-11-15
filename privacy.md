@@ -26,4 +26,4 @@ You maintain complete control and ownership of your data. You may delete individ
 For assistance, bug reports, or privacy inquiries regarding Mass Intentions Manager, please contact:
 
 * **Support Team:** Oblationes Missae Manager Support
-* **Email:** massintentions.support@gmail.com
+* **Email:** oblationesmissae.support@gmail.com
