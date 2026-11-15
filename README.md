@@ -1,6 +1,6 @@
-# Mass Intentions Manager — Public Documentation & Policies
+# Oblationes Missae Manager — Public Documentation & Policies
 
-This repository hosts the public User Manual, Support page, and Privacy Policy for the iOS application **Mass Intentions Manager**.
+This repository hosts the public User Manual, Support page, and Privacy Policy for the iOS application **Oblationes Missae Manager**.
 
 ## Live Links for App Store Connect
 
