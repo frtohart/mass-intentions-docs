@@ -1,14 +1,14 @@
-# Mass Intentions Manager — Support & User Manual
+# Oblationes Missae Manager — Support & User Manual
 
-Welcome to the official support page and user guide for **Mass Intentions Manager**, an iOS application designed for parish administrators and priests to manage, schedule, and synchronize Holy Mass intentions while maintaining canonical compliance.
+Welcome to the official support page and user guide for **Oblationes Missae Manager**, an iOS application designed for parish administrators and priests to manage, schedule, and synchronise Holy Mass intentions while maintaining canonical compliance.
 
 ---
 
 ## 📩 App Support & Contact
 
-If you have questions, feedback, or need assistance with Mass Intentions Manager, please reach out to us:
+If you have questions, feedback, or need assistance with Oblationes Missae Manager, please reach out to us:
 
-* **Email Support:** massintentions.support@gmail.com
+* **Email Support:** oblationesmissae.support@gmail.com
 * **Privacy Policy:** View our [Privacy Policy](privacy)
 * **Platform:** iOS 17.0+ (iPhone)
 
@@ -17,7 +17,7 @@ If you have questions, feedback, or need assistance with Mass Intentions Manager
 ## 📖 User Manual & Guide
 
 ### 1. Overview & Key Capabilities
-Mass Intentions Manager provides a structured workflow to ensure every Mass stipend and obligation is recorded accurately according to Church guidelines.
+Oblationes Missae Manager provides a structured workflow to ensure every Mass stipend and obligation is recorded accurately according to Church guidelines.
 
 * **Canonical Safeguards:** Built-in validation for *Missa Pro Populo* (Canons 534/951) and 30 consecutive unbroken days for Gregorian Mass series (Canon 904).
 * **Liturgical Protection:** Automatically blocks scheduling on Good Friday and Holy Saturday.
@@ -83,7 +83,7 @@ Export a JSON backup from your old device in **Settings** $\rightarrow$ **Backup
 ---
 
 ## Contact & Support
-For assistance, bug reports, or privacy inquiries regarding Mass Intentions Manager, please contact:
+For assistance, bug reports, or privacy inquiries regarding Oblationes Missae Manager, please contact:
 
-* **Support Team:** Mass Intentions Manager Support
-* **Email:** massintentions.support@gmail.com
+* **Support Team:** Oblationes Missae Manager Support
+* **Email:** oblationesmissae.support@gmail.com
